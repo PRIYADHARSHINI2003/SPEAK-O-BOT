@@ -15,4 +15,4 @@ OUR SOLUTION - Virtual classrooms and online education can be made deaf and dumb
 3) SIGN LANGUAGE TRANSLATORS ARE NOT AVAILABLE 24 x 7
 
 OUR SOLUTION - SPEAK-O-BOT is Robust ,dynamic and can be used anywhere with a click of a button. No need of sign language translators. SPEAK-O-BOT bridges the communication gap.
-![image](https://user-images.githubusercontent.com/73331349/153739742-a9b7b58a-47dd-4419-b68d-6e1eba16db57.png)
+
