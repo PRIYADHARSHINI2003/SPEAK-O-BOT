@@ -1,6 +1,12 @@
 # SPEAK-O-BOT
 A  AI-Driven Talkative bot for speechless
 
+
+Video pitch - https://youtu.be/5bscUZ1JpGE
+
+Live project deployed - https://speakobot.herokuapp.com/
+
+
 PROBLEM STATEMENTS AND OUR SOLUTION
 
 
